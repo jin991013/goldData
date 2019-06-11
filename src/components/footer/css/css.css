@@ -1,0 +1,37 @@
+/* #footer{} */
+#footer .footer-contant{border-bottom: 1px solid #ccc;padding-bottom: 60px;}
+#footer .footer-contant-container{width: 1000px;margin:0 auto;}
+#footer .footer-contant-container .contant-left{display: inline-block;margin-right: 100px;}
+#footer .footer-contant-container .contant-left h3{color:#ff8533;font-size: 16px;
+font-weight: 600;padding-left:40px;background:url('./../../headerNavbar/images/tree.png')no-repeat left;background-size: 30px;background-position: 0 0px;height: 30px;line-height:40px;padding-bottom:40px;}
+#footer .footer-contant-container .contant-left p{width: 300px;color:#666;line-height: 1.8;}
+#footer .footer-contant-container .contant-left span{color:#666;display: block;padding:2px 0;}
+#footer .footer-contant-container .contant-left span a{color:#848484;}
+#footer .footer-contant-container .contant-left span a:hover{text-decoration: none;}
+#footer .footer-contant-container .contant-list{display: inline-block;vertical-align: top;padding-top: 10px;}
+#footer .footer-contant-container .contant-list li{display: inline-block;vertical-align: top;margin-right: 110px;}
+#footer .footer-contant-container .contant-list li:last-child{margin-right: 0;}
+#footer .footer-contant-container .contant-list li dl{vertical-align: top;}
+#footer .footer-contant-container .contant-list li dt{padding-bottom: 10px;}
+#footer .footer-contant-container .contant-list li dd{padding-bottom: 6px;}
+#footer .footer-contant-container .contant-list li dd a{color:#848484;}
+#footer .footer-contant-container .contant-list li dd a:hover{text-decoration: none;}
+#footer .footer-contant-container .contant-list li dd .on{color:#ff8533;}
+
+#footer .footer-bottom{padding-top:20px;padding-bottom: 60px;}
+#footer .footer-bottom-container{width: 1000px;margin:0 auto;}
+#footer .footer-bottom-container p{display: inline-block;color:#666;}
+#footer .footer-bottom-container div{float: right;}
+#footer .footer-bottom-container div a{margin-left: 20px;background: url('./../images/微信.png')no-repeat;background-size: 18px;padding-left: 20px;color:#666;}
+#footer .footer-bottom-container div a:first-child{margin-left: 20px;
+background: url('./../images/微博.png')no-repeat;background-size: 18px;}
+#footer .footer-bottom-container div a:hover{text-decoration: none;}
+
+#footer .wx{position: relative;}
+#footer .wx:hover .myTooltip{display: block;}
+#footer .myTooltip{position: absolute;left: -60px;top: -236px;
+box-shadow:0 4px 6px 2px rgba(0,0,0,0.4);padding:20px 20px;background-color: #fff;
+display: none;}
+#footer .myTooltip img{width: 160px;}
+#footer .myTooltip p{color:#000;}
+#footer .myTooltip span{position: absolute;bottom: -16px;left: 95px;width: 0;height: 0;border:8px solid rgba(0,0,0,0);border-top:8px solid #fff;}

@@ -1,0 +1,32 @@
+/* #my-examination{}
+#my-examination .my-contant-component-four{}
+#my-examination .my-contant-component-four ul{} */
+.my-contant-component-four h3{text-align: center;padding-bottom: 40px;}
+.my-contant-component-four li{display: inline-block;margin-right: 20px;}
+.my-contant-component-four li:last-child{margin-right: 0;}
+/* .my-contant-component-four dl{} */
+.my-contant-component-four dt{font-weight: 400;font-size: 18px;background-color: #5946e4;text-align: center;color:#fff;width: 230px;line-height: 60px;border-radius: 3px;}
+.my-contant-component-four dl div{box-shadow: 0 2px 8px 0 rgba(0,0,0,0.12);padding-top: 20px;margin-top: 10px;}
+.my-contant-component-four dd{position: relative;margin-left: 20px;padding-left: 20px;padding-bottom: 20px;}
+.my-contant-component-four dd:before{content: '';position: absolute;left: 0;top: 6px;width: 0;height: 0;border:3px solid #333;border-radius: 50%;}
+
+
+
+
+
+/* #my-examination .my-footer-component-three{}
+#my-examination .my-footer-component-three h3{}
+#my-examination .my-footer-component-three ul{} */
+#my-examination .my-footer-component-three ul li{margin-right:40px;}
+#my-examination .my-footer-component-three ul li:last-child{margin-right:0;}
+#my-examination .my-footer-component-three ul li span{background:url('./../images/functions-70eaee354e0c039592353ae3b1c7da00c0c29b45163fd67d80fb22068af0a85a.png')no-repeat;}
+#my-examination .my-footer-component-three ul li:nth-of-type(2) span{background-position: -70px 0;}
+#my-examination .my-footer-component-three ul li:nth-of-type(3) span{background-position: -140px 0;}
+#my-examination .my-footer-component-three ul li:nth-of-type(4) span{background-position: 0 -70px;}
+#my-examination .my-footer-component-three ul li:nth-of-type(5) span{background-position: -70px -70px;}
+#my-examination .my-footer-component-three ul li:nth-of-type(6) span{background-position: -140px -70px;}
+/* #my-examination .my-footer-component-three button{}
+#my-examination .my-footer-component-three div{} */
+#my-examination .my-footer-component-three div div a{background:url('./../images/first-4112d4509d25b7f1527767a6d2c050bd8fcf8cab68b70f0010713d66a44e8f1e.png')no-repeat;background-size: 490px;}
+#my-examination .my-footer-component-three div div a:last-child{background:url('./../images/second-78384414b832c58b8d78e34a884c673d68636a184e220b64e68de310b8fcb42b.png')no-repeat;
+background-size: 490px;}

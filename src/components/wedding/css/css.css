@@ -1,0 +1,19 @@
+/* #my-wedding{}
+#my-wedding .my-banner-component{}
+#my-wedding .my-banner-container{}
+#my-wedding .my-banner-container{}
+#my-wedding .my-banner-contant{} */
+#my-wedding .my-banner-component{background:url('./../images/background-82980788361a6607f594b2049ef524b2d4ce599a6fdef76709c042c5292ae9ec.png')no-repeat;}
+#my-wedding .my-banner-contant h3{width: 480px;}
+#my-wedding .my-banner-contant p{width: 480px;}
+/* #my-wedding .my-banner-contant button{}
+#my-wedding .my-banner-img{}
+#my-wedding .my-banner-img img{} */
+
+#my-wedding .contant-list>li{padding-bottom: 300px;background:url('./../images/first-361800414396f4991436adf0aa80102cf6cc697cf8d8d4aa6789ab24e80560d9.png')no-repeat;}
+#my-wedding .contant-list>li:nth-of-type(2){background:url('./../images/second-6ca66ded93a00b2edcdfdfce2215ea3042937f5ea700d95f836ac2a8178a3ca9.png')no-repeat;}
+#my-wedding .contant-list>li:nth-of-type(3){background:url('./../images/third-e72b74367409746e28423f474fcbfca354737cc6c8b9316360e1f70e495bdb49.png')no-repeat;}
+#my-wedding .contant-list>li:nth-of-type(4){background:url('./../images/fourth-0986546ca2fb22f2240596288fb77632f2a638eb889d9238c7fc73f2010f5d93.png')no-repeat;}
+
+
+#my-wedding .my-footer-component-one div img{width: 174px;}

@@ -1,0 +1,35 @@
+/* #education{} */
+#education .education-contant-one{background:url('./../images/background-bc416bbbe4418c1ebb5750cafaefcd1f55da86e14ddf43cf75d1ba070b21d90a.png')no-repeat;
+padding-top:120px;}
+#education .education-container{width: 1000px;margin:0 auto;}
+#education .education-contant-one-left{display: inline-block;}
+#education .education-contant-one-left h3{font-size: 32px;width: 480px;line-height: 1.4;padding-bottom: 20px;}
+#education .education-contant-one-left p{font-size: 18px;width: 468px;line-height: 1.6;padding-bottom: 20px;}
+#education .education-contant-one-left button{background-color: #2875e8;color:#fff;width: 170px;padding-top:10px;font-size: 18px;}
+#education .education-contant-one-left button:hover{background-color: #5398ff;}
+#education .education-contant-one-right{display: inline-block;}
+/* #education .education-contant-one-right img{} */
+
+/* 
+#education .education-contant-two{}
+#education ul{} */
+#education .education-contant-list{background:url('./../images/first-9f2bf1ccee518ed9e4915272736503db4c23bde16767186d97db2fc78fe71299.png')no-repeat;
+width: 480px;padding-top: 250px;background-color: #fafafa;height: 520px;box-shadow: 0 0 13px 0 rgba(179,179,179,0.3);display: inline-block;margin-right: 30px;margin-bottom: 40px;vertical-align: top;}
+#education .education-contant-list:nth-of-type(2){background:url('./../images/second-09ad684da7f2a0377e5f0f6101f4d810e7807308c3ba8667f2b942e6e3084315.png')no-repeat;margin-right: 0;background-color: #fafafa;}
+#education .education-contant-list:nth-of-type(3){background:url('./../images/third-d616d07ce83083766cd402da8f5c614b8455442ee80981f1aa637f474c069c65.png')no-repeat;background-color: #fafafa;}
+#education .education-contant-list:nth-of-type(4){background:url('./../images/fourth-93a53d96d9a4a8d2dc638bd72b5fdf3a24e088884c8b9ca9c988c619a4c31f22.png')no-repeat;background-color: #fafafa;margin-right: 0;}
+#education .education-contant-list h3{font-size: 24px;color:#333;font-weight: 600;margin-left:40px;padding-bottom: 20px;}
+#education .education-contant-list p{margin-left: 40px;font-size: 16px;color:#333;width: 390px;;padding-bottom: 20px;}
+#education .education-contant-list ul{margin-left: 56px;}
+#education .education-contant-list ul li{list-style-type: disc;;}
+/* #education .education-contant-list ul li a{} */
+#education .education-contant-list ul li a:hover{color:#337ab7;}
+
+#education .education-contant-three{text-align: center;padding-top: 100px;}
+#education .education-contant-three p{font-size: 32px;width: 530px;margin:0 auto;padding-bottom: 30px;}
+#education .education-contant-three div{border:1px solid rgba(0,0,0,0);border-top:1px solid #eee;padding:30px 0;border-bottom: 1px solid #eee;}
+#education .education-contant-three div img{margin-right: 60px;}
+#education .education-contant-three div img:nth-of-type(3){margin-right:0;}
+#education .education-contant-three button{background-color: #2875e8;color:#fff;
+font-size: 18px;width: 300px;margin-top: 100px;margin-bottom: 200px;}
+#education .education-contant-three button:hover{background-color: #5398ff;}

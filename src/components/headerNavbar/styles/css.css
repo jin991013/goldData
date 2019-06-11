@@ -1,0 +1,55 @@
+.Curtain{position: fixed;left: 0;top: 0;width: 100%;height: 100%;background-color: rgba(0,0,0,0.5);display: none;}
+.navbar{background-color:rgba(0,0,0,0);border:none;}
+.navbar .container{width: 100%;}
+.navbar-fixed-top{z-index: 100;}
+.container .navbar-header .navbar-toggle{background-color: #fff;border-color:#2875e8;border-radius: 2px;width: 70px;text-align: center;}
+.navbar-inverse .navbar-toggle:hover{background-color:#fff;}
+.navbar-inverse .navbar-toggle .icon-bar {background-color: #2875e8;width: 10px;
+    margin: 2px auto;}
+.navbarBrand{display: inline-block;background:url(./../images/tree.png)10px 10px;padding:30px;background-repeat: no-repeat;background-size: 30%;background-position: 20 20;text-align: right;}
+.navbarBrand span{position: relative;left: 20px;top:-16px;color:#ff8533;font-size:16px;}
+#myCollapse .navbarNavList a{color:#555;font-size: 16px;background-color: rgba(0,0,0,0);}
+#myCollapse .navbarNavList a:hover{color:rgb(40, 117, 232);background-color:rgba(0,0,0,0);}
+#myCollapse .dropdown{position: static;}
+#myCollapse .dropdown-menu{left: 0;top: 80%;width: 100%;padding:25px 0;}
+#myCollapse .dropdown-menu>li{display: inline-block;}
+#myCollapse .dropdown-menu>li>span{display: inline-block;margin-left: 40px;font-size: 12px;color:#333;padding-bottom: 20px;}
+#myCollapse .dropdown-menu>li{margin-left:90px;}
+#myCollapse .dropdown-menu>li:nth-of-type(1){margin-left:360px;}
+#myCollapse .dropdown-menu>li ul li{padding-bottom: 20px;}
+#myCollapse .dropdown-menu>li ul a{display: inline-block;font-size: 14px;}
+#myCollapse .dropdown-menu>li ul a:hover span{color:rgb(40,117,232);}
+#myCollapse .dropdown-menu>li ul a span{display: block;font-size: 12px;color:#999;}
+
+#dropdownBtn>span:before{position: relative;left: 4px;top: 1px;font-size: 14px;}
+
+#navbarBtnGroup{position: absolute;right: 300px;top: 10px;}
+.navbarBtnGroup button{background-color: #2875E8;color:#fff;height: 32px;margin-left: 10px;
+position: relative;top: -2px;border-radius: 2px;}
+.navbarBtnGroup a{color:rgb(80,80,80);}
+.navbarBtnGroup button:hover{border-color: #5398ff;background-color: #5398ff;color:#fff;}
+
+@media (min-width: 1199px){
+    .navbar .container{width: 980px;}
+}
+@media (min-width: 991px) and (max-width: 1200px){
+    .navbar .container{width: 780px;}
+    #navbarBtnGroup{right: 160px;}
+}
+@media (min-width: 767px) and (max-width: 992px){
+    #navbarBtnGroup{right: 20px;}
+}
+@media (max-width: 768px){
+    #navbarBtnGroup{right: 110px;top:4px;}
+    #myCollapse{position: fixed;right: 0;top: 0;z-index: 100;width: 200px;margin: 0;padding: 0;border:none;}
+    #myCollapse>ul{background-color: #fff;height: 1200px;margin: 0;padding: 0;}
+    #myCollapse>ul>li{padding-top: 6px;}
+    #dropdownBtn{font-size: 14px !important;border-bottom: 1px solid #ccc;}
+    #myCollapse ul ul{padding-left: 20px;}
+    #myCollapse ul ul li{display: block !important;}
+    #myCollapse .dropdown-menu{display: none;position: static;width: 100px;border:none;height: auto;margin: 0;padding: 0;float: none;box-shadow:none;}
+    #myCollapse .dropdown .dropdown-menu li{margin: 0;padding: 4px 0;}
+    #myCollapse .dropdown .dropdown-menu li>span{font-size: 16px;position: relative;left: -26px;color:#555;padding-bottom:6px;}
+    #myCollapse .dropdown .dropdown-menu>li{padding-top: 20px;}
+    #myCollapse .dropdown .dropdown-menu ul li span{display: none;}
+}
